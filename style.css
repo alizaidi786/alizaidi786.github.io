@@ -1,5 +1,14 @@
-.colorjumbo{font-family: serif; font-weight: 5000; background-image:url(bgimage2.png); color: red;}
+.colorjumbo{font-family: serif; font-weight: 5000; background-image:url(bgimage2.png);}
 .brandcolor{background-image: url(bgimage1.jpg);}
+.shia{
+	color: red;
+}
+.vishwa{
+	color: green;
+}
+.parishad{
+	color: green;
+}
 .colorjumbo {
   -webkit-text-stroke: 1px black;
 }
